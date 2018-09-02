@@ -1,0 +1,20 @@
+{
+  "name": "comment-snippet",
+  "version": "0.1.0",
+  "description": "Comment snippets for Sublime Text",
+  "homepage": "https://github.com/ajayexpert/comment-snippet",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ajayexpert/comment-snippet"
+  },
+  "keywords": [
+    "sublime",
+    "comments",
+    "snippets"
+  ],
+  "author": "Ajay Kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajayexpert/comment-snippet/issues"
+  }
+}

@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+#!/usr/bin/env bash
+#
+# ${1:Description}
+${4:#
+# Usage: ./$TM_FILENAME $2}
+
+]]></content>
+  <tabTrigger>#!</tabTrigger>
+  <scope>source.shell</scope>
+  <description>Bash Shebang</description>
+</snippet>

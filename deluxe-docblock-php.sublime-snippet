@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+/**
+ * ${1:Description}
+ *
+ * @param string \$a Foo
+ *
+ * @return int \$b Bar
+ */
+]]></content>
+	<tabTrigger>/***</tabTrigger>
+	<scope>source.php</scope>
+	<description>Deluxe Docblock Comment</description>
+</snippet>
